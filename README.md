@@ -1,9 +1,17 @@
 # git
 ### Setting up git
+   ```
 git config --global user.name "Nguyen Bao Khanh"
+   ```
+   ```
 git config --global user.email "khanh.nguyenbao@ivnd.com.vn"
+   ```
+   ```
 git config --list
+   ```
+   ```
 nano ~/.gitconfig
+   ```
 
 ### Dưới đây là một số câu lệnh Git thường được sử dụng:
 
